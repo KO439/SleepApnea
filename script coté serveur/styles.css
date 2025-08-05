@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Couleur de fond */
+    background-image: url('banniere-medicale-medecin-tenant-stethoscope.jpg'); /* Image de fond */
+    background-size: cover; /* Redimensionne l'image pour remplir l'ensemble de la page */
+    color: #333;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 50px; /* Augmenter la marge inférieure */
+    font-size: 3rem; /* Augmenter la taille du titre */
+    color: #007BFF;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.actions {
+    display: flex;
+    flex-direction: column; /* Affichage des boutons en colonne */
+    align-items: center; /* Centrer les boutons horizontalement */
+    gap: 20px; /* Espacement entre les boutons */
+}
+
+.action {
+    background: linear-gradient(45deg, #007BFF, #00FFFF);
+    color: #fff;
+    border: none;
+    padding: 20px 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 1.2rem;
+}
+
+.action:hover {
+    background: linear-gradient(45deg, #0056b3, #00cccc);
+    transform: scale(1.05);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+} 
