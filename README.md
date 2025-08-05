@@ -11,21 +11,25 @@ SleepApnea is a connected medical device system designed to monitor and detect o
 - Portable and user-friendly design for home use.
 
 ## Screenshots
-
-![Device Setup](images/body_equipement.jpg)  
+ ![Results Summary](price.jpg)  
+*Award received at the Digital Health Forum.*
+ 
+![Device Setup](body_equipement.jpg)  
 *Photo of the monitoring device and equipment.*
 
-![User Interface 1](images/interface2.jpg)  
+![User Interface 1](interface2.jpg)  
 *First user interface showing sleep data overview.*
 
-![User Interface 2](images/interface6.jpg)  
+![User Interface 2](interface6.jpg)  
 *Detailed view of detected apnea events.*
 
 ![Notification Example](notification.jpg)  
 *Sample alert notification for apnea detection.*
 
-![Results Summary](images/results.jpg)  
+![Results Summary](results.jpg)  
 *Summary of monitoring results.*
+
+
 
 ## Benefits  
 - Early detection of sleep apnea for better treatment outcomes.  
